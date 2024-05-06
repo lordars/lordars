@@ -22,6 +22,8 @@ Em portugues:
 -⚡ Curiosidade: Gosto de metal, aqui vai uma banda que provavelmente vocês não conhecem, V8 -> https://www.youtube.com/watch?v=_vXQCNFqwu8
 -->
 
+<br/>
+
 En Argentinidad!:
 
 -🔭 Estoy trabajando para convertirme en un mejor profesor de español, doy aulas para brasileros y programador.
@@ -42,6 +44,8 @@ En Argentinidad!:
 
 -⚡ Curiosidad: Me gusta el metal, aquí tienes una banda que probablemente no conozcas, V8 -> https://www.youtube.com/watch?v=_vXQCNFqwu8
 
+
+<br/>
 
 English:
 
