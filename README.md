@@ -1,3 +1,18 @@
+Carta de Apresentação
+Caçapava, São Paulo, Brasil
+
+
+Prezados(as) recrutadores(as),
+Sou Adrián Ricardo Iazbeck Scalia, desenvolvedor Full Stack com experiência em sistemas web, aplicativos e jogos em Unity. Atuei em projetos que uniram tecnologia e inovação, como mundos virtuais para ensino de idiomas, aplicações para call centers e jogos educativos. Tenho também experiência em empreendedorismo, liderando a Astor Code, onde ajudo empresas a transformarem suas ideias em soluções digitais.
+Sou fluente em português e espanhol, possuo inglês em desenvolvimento e valorizo a comunicação clara e a colaboração em equipe. Acredito que minha trajetória, unindo programação, ensino e inovação, me capacita a contribuir de forma efetiva para os objetivos da sua empresa.
+Gostaria de colocar minha experiência à disposição para conversar em uma entrevista, onde poderei detalhar como posso agregar valor ao seu time. Agradeço desde já pela atenção e pela oportunidade de participar do processo seletivo.
+Atenciosamente,
+Adrián Ricardo Iazbeck Scalia
+📱 +55 12 99613-8668 | ✉️ adrian.r.scalia@gmail.com
+
+
+
+
 ### Hi there 👋
 ![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordars&show_icons=true&theme=radical)
 
